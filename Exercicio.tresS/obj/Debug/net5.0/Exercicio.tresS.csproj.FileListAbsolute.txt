@@ -1,0 +1,15 @@
+C:\Users\facec.lab04\source\repos\facec.exerci\Exercicio.tresS\bin\Debug\net5.0\Exercicio.tresS.exe
+C:\Users\facec.lab04\source\repos\facec.exerci\Exercicio.tresS\bin\Debug\net5.0\Exercicio.tresS.deps.json
+C:\Users\facec.lab04\source\repos\facec.exerci\Exercicio.tresS\bin\Debug\net5.0\Exercicio.tresS.runtimeconfig.json
+C:\Users\facec.lab04\source\repos\facec.exerci\Exercicio.tresS\bin\Debug\net5.0\Exercicio.tresS.runtimeconfig.dev.json
+C:\Users\facec.lab04\source\repos\facec.exerci\Exercicio.tresS\bin\Debug\net5.0\Exercicio.tresS.dll
+C:\Users\facec.lab04\source\repos\facec.exerci\Exercicio.tresS\bin\Debug\net5.0\ref\Exercicio.tresS.dll
+C:\Users\facec.lab04\source\repos\facec.exerci\Exercicio.tresS\bin\Debug\net5.0\Exercicio.tresS.pdb
+C:\Users\facec.lab04\source\repos\facec.exerci\Exercicio.tresS\obj\Debug\net5.0\Exercicio.tresS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\facec.lab04\source\repos\facec.exerci\Exercicio.tresS\obj\Debug\net5.0\Exercicio.tresS.AssemblyInfoInputs.cache
+C:\Users\facec.lab04\source\repos\facec.exerci\Exercicio.tresS\obj\Debug\net5.0\Exercicio.tresS.AssemblyInfo.cs
+C:\Users\facec.lab04\source\repos\facec.exerci\Exercicio.tresS\obj\Debug\net5.0\Exercicio.tresS.csproj.CoreCompileInputs.cache
+C:\Users\facec.lab04\source\repos\facec.exerci\Exercicio.tresS\obj\Debug\net5.0\Exercicio.tresS.dll
+C:\Users\facec.lab04\source\repos\facec.exerci\Exercicio.tresS\obj\Debug\net5.0\ref\Exercicio.tresS.dll
+C:\Users\facec.lab04\source\repos\facec.exerci\Exercicio.tresS\obj\Debug\net5.0\Exercicio.tresS.pdb
+C:\Users\facec.lab04\source\repos\facec.exerci\Exercicio.tresS\obj\Debug\net5.0\Exercicio.tresS.genruntimeconfig.cache

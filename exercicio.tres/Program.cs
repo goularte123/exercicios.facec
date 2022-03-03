@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Exercicio.dois
+namespace exercicio.tres
 {
     class Program
     {
