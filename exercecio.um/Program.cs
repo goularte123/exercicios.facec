@@ -12,7 +12,7 @@ namespace exercecio.um
             decimal valorCambio = 0.1932m;  
 
             decimal.TryParse(valorDigitado, out valorConvertido);
-            decimal valorCabioConvertido = valorConvertido / valorCambio;
+            decimal valorCabioConvertido = valorConvertido /valorCambio;
 
             Console.WriteLine($"valor em $:{valorCabioConvertido }");
             Console.ReadLine();
