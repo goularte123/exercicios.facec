@@ -1,0 +1,16 @@
+C:\Users\facec.lab04\source\repos\facec.exerci\exercecio.um\bin\Debug\net5.0\exercecio.um.exe
+C:\Users\facec.lab04\source\repos\facec.exerci\exercecio.um\bin\Debug\net5.0\exercecio.um.deps.json
+C:\Users\facec.lab04\source\repos\facec.exerci\exercecio.um\bin\Debug\net5.0\exercecio.um.runtimeconfig.json
+C:\Users\facec.lab04\source\repos\facec.exerci\exercecio.um\bin\Debug\net5.0\exercecio.um.runtimeconfig.dev.json
+C:\Users\facec.lab04\source\repos\facec.exerci\exercecio.um\bin\Debug\net5.0\exercecio.um.dll
+C:\Users\facec.lab04\source\repos\facec.exerci\exercecio.um\bin\Debug\net5.0\ref\exercecio.um.dll
+C:\Users\facec.lab04\source\repos\facec.exerci\exercecio.um\bin\Debug\net5.0\exercecio.um.pdb
+C:\Users\facec.lab04\source\repos\facec.exerci\exercecio.um\obj\Debug\net5.0\exercecio.um.csproj.AssemblyReference.cache
+C:\Users\facec.lab04\source\repos\facec.exerci\exercecio.um\obj\Debug\net5.0\exercecio.um.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\facec.lab04\source\repos\facec.exerci\exercecio.um\obj\Debug\net5.0\exercecio.um.AssemblyInfoInputs.cache
+C:\Users\facec.lab04\source\repos\facec.exerci\exercecio.um\obj\Debug\net5.0\exercecio.um.AssemblyInfo.cs
+C:\Users\facec.lab04\source\repos\facec.exerci\exercecio.um\obj\Debug\net5.0\exercecio.um.csproj.CoreCompileInputs.cache
+C:\Users\facec.lab04\source\repos\facec.exerci\exercecio.um\obj\Debug\net5.0\exercecio.um.dll
+C:\Users\facec.lab04\source\repos\facec.exerci\exercecio.um\obj\Debug\net5.0\ref\exercecio.um.dll
+C:\Users\facec.lab04\source\repos\facec.exerci\exercecio.um\obj\Debug\net5.0\exercecio.um.pdb
+C:\Users\facec.lab04\source\repos\facec.exerci\exercecio.um\obj\Debug\net5.0\exercecio.um.genruntimeconfig.cache
